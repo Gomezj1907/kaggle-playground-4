@@ -1,6 +1,10 @@
 # Kaggle Playground 4: Binary Classification with Bank Churn Dataset
 
-This repository contains code and resources for binary classification using a Bank Churn dataset. The project is structured as follows:
+This repository contains code and resources for binary classification using a Bank Churn dataset from the kaggle Play ground series, more information can be found in: 
+
+Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Dataset . Kaggle. https://kaggle.com/competitions/playground-series-s4e1
+
+The project is structured as follows:
 
 ## Requirements
 - `requirements.txt`: Contains all Python packages required to replicate the environment used for the project.
